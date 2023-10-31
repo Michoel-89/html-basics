@@ -9,6 +9,7 @@ Before we dive into the tests, you'll need to set up your environment to run the
 ```bash
 npm install jest
 npm install jsdom
+```
 
 ## Test 1: Page Title
 
