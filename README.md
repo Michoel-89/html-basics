@@ -10,6 +10,18 @@ Before we dive into the tests, you'll need to set up your environment to run the
 npm install jest
 npm install jsdom
 ```
+You can run each test with it's number 
+```bash
+ npx jest -t '(number 1)'
+ npx jest -t '(number 2)'
+ npx jest -t '(number 3)'
+ npx jest -t '(number 4)'
+ npx jest -t '(number 5)'
+```
+Or run them all together with this command
+```bash
+npx jest testingFile.test.js
+```
 
 ## Test 1: Page Title
 
