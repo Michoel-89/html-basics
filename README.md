@@ -3,7 +3,14 @@
 Welcome to your guide for learning the basics of HTML and passing a set of tests that check the structure of your HTML code. HTML is the language used to create web pages, and it's an excellent skill to have.
 
 ## Getting Started
+If this is you first time install node with this command otherwise skip
 
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+nvm
+nvm install --lts
+nvm list
+```
 Before we dive into the tests, you'll need to set up your environment to run them. We'll be using Jest, a popular JavaScript testing framework, along with JSDOM, a library that allows us to work with the Document Object Model (DOM) in Node.js. To install these tools, open your terminal and run the following commands:
 
 ```bash
