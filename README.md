@@ -7,6 +7,8 @@ If this is your first time install node with these commands otherwise skip
 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+```
+```bash
 nvm
 nvm install --lts
 nvm list
