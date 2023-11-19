@@ -3,7 +3,7 @@
 Welcome to your guide for learning the basics of HTML and passing a set of tests that check the structure of your HTML code. HTML is the language used to create web pages, and it's an excellent skill to have.
 
 ## Getting Started
-If this is your first time, install node with these commands. [Otherwise skip](#my-target-line)
+If this is your first time, install node with these commands. [Otherwise skip:](#my-target-line)
 
 
 ```bash
